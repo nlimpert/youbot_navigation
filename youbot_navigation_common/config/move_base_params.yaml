@@ -13,3 +13,4 @@ controller_patience: 15.0
 clearing_radius: 0.25
 footprint_padding: 0.03
 
+#base_local_planner: "dwa_local_planner/DWAPlannerROS"
